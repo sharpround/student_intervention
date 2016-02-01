@@ -23,6 +23,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+*checkpoint.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -107,3 +108,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.pdf
